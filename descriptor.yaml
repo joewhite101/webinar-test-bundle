@@ -1,0 +1,10 @@
+code: webinar-bundle
+description: This is the webinar bundle
+
+components:
+  plugins:
+    - plugins/webinar-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
