@@ -1,0 +1,6 @@
+code: webinar-details-widget
+titles:
+  en: Webinar Details Widget
+  it: Webinar Details Widget
+group: free
+customUiPath: webinar-details-widget.ftl

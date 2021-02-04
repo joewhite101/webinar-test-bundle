@@ -1,0 +1,6 @@
+code: webinar-form-widget
+titles:
+  en: Webinar Form Widget
+  it: Webinar Form Widget
+group: free
+customUiPath: webinar-form-widget.ftl

@@ -1,0 +1,6 @@
+code: webinar-table-widget
+titles:
+  en: Webinar Table Widget
+  it: Webinar Table Widget
+group: free
+customUiPath: webinar-table-widget.ftl
